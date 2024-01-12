@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Happiness-dah
 - 👀 I’m interested in Front-end development,hacking and software engineering 
 - 🌱 I’m currently learning front-end and software engineering.
-- 💞️ I’m looking to collaborate on gaining more knowledg.
+- 💞️ I’m looking to collaborate on gaining more knowledge.
 - 📫 How to reach me-check my profile.
 
 <!---
